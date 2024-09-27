@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap');
+
+.antic-done-regular {
+    font-family: "Antic Didone", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header-container {
+    height: 100px;
+    width: inherit;
+
+    margin: 25px 20px 10px 20px;
+    padding-top: 15px ;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo {
+    height: 150px;
+    width: 530px;
+
+    font-family: antic-done, serif;
+    font-size: 100px;
+    color: #090909;
+}
+
+#search-box {
+    height: 40px;
+    width: 750px;
+
+    border: solid 3px #DEB86D;
+    border-radius: 25px;
+
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

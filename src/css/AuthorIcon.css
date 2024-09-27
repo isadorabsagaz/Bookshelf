@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cambay:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.author-icon-container {
+    height: inherit;
+    width: inherit;
+
+    margin-top: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.author {
+    height: 200px;
+    width: 100px;
+
+    margin-left: 80px;
+}
+
+.author img {
+    border-radius: 50%;
+}
+
+.author p {
+    font-family: Cambay, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.about-container {
+    margin-left: 100px;
+    margin-right: 80px;
+}
+
+
+
+
+
