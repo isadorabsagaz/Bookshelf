@@ -1,5 +1,6 @@
 import "../css/NavigationBar.css"
 
+
 const NavigationBar = () => {
     return (
         <div className="navigation-bar">
